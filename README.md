@@ -1,6 +1,6 @@
 # Ajudando na tomada de decisão para internações em leitos de UTI em decorrência da COVID-19
 ---
-##Um projeto de Machine Learning para o Bootcamp de Ciência de Dados da Alura Cursos
+## Um projeto de Machine Learning para o Bootcamp de Ciência de Dados da Alura Cursos
 
 Desde o começo da pandemia de COVID-19 os gestores e tomadores de decisão especialmente aqueles responsáveis por hospitais e portanto, diretamente por leitos de UTI vem tentando antever o máximo possível quando um paciente irá necessitar desse tipo de atendimento, de forma a um melhor acolhimento e garantir a sobrevivência destes.
 
@@ -10,6 +10,6 @@ Pensando nessa generalização e no barateamento do acesso à essas tecnologias 
 
 Visando uma aplicação real de *Machine Learning*, o 2º Bootcamp de Ciência de Dados da Alura propôs como projeto final esse mesmo desafio para os alunos. Este projeto sumariza meu aprendizado ao longo do curso e expõe o que ainda preciso melhorar. Outros notebooks específicos do curso podem ser conferidos nesse [link](https://github.com/EnzoGolfetti/bootcamp_ds_aplicada).
 
-##O projeto
+## O projeto
 
 
