@@ -47,7 +47,7 @@ Nosso modelo final portanto, foi o **modelo Stack and Embedded com um ROC-AUC Sc
 ### Referências e agradecimentos
 Todas as referências utilizadas estão disponíveis no notebook, nele mesmo discutimos mais profundamente alguns assuntos tratados aqui e nosso modelo treinado também está disponível no repositório deste projeto.
 
-Agradeço a todos os instrutores do Bootcamp da Alura que sempre estiveram disponíveis para todas minhas dúvidas e que se empenharam para entregar um material que valeu a pena. Também a todos os alunos que ao compartilharem seus conhecimentos nas comunidade me ajudaram a solucionar dúvidas e problemas aos quais não tive a perspectiva e perspicácia no momento para resolver.
+Agradeço a todos os instrutores do Bootcamp da Alura que sempre estiveram disponíveis para todas minhas dúvidas e que se empenharam para entregar um material que valeu a pena. Também a todos os alunos que ao compartilharem seus conhecimentos na comunidade me ajudaram a solucionar dúvidas e problemas aos quais não tive a perspectiva e perspicácia no momento para resolver.
 
 Acesse o notebook completo: [predicao_entrada_uti_sirio_libanes_v1.ipynb](https://github.com/EnzoGolfetti/Predicao_Entrada_UTI_case_Sirio_Libanes/blob/main/predicao_entrada_uti_sirio_libanes_v1.ipynb)
 
