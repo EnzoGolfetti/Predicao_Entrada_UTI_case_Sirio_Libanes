@@ -52,6 +52,7 @@ Agradeço a todos os instrutores do Bootcamp da Alura que sempre estiveram dispo
 Acesse o notebook completo: [predicao_entrada_uti_sirio_libanes_v1.ipynb](https://github.com/EnzoGolfetti/Predicao_Entrada_UTI_case_Sirio_Libanes/blob/main/predicao_entrada_uti_sirio_libanes_v1.ipynb)
 
 Principais referências:
+
 https://piaui.folha.uol.com.br/desde-o-comeco-do-ano-proporcao-de-idosos-nas-utis-de-covid-caiu-pela-metade-no-brasil/
 
 https://deepchecks.com/glossary/recall-in-machine-learning/
