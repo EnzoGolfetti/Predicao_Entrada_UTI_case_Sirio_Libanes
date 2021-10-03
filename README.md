@@ -19,13 +19,13 @@ Primeiramente para realização do desafio, precisamos escolher as ferramentas q
 - Jupyter Notebook no ambiente do Google Colaboratory do Google;
 - GitHub para armazenar os arquivos em nuvem;
 - Bibliotecas python principais:
-  -  Pandas -- para análise de dados;
-  -  NumPy -- biblioteca para álgebra linear;
-  -  Pyforest -- automaticamente importa mais de 40 bibliotecas famosas de Data Science em Python;
-  -  pandas_profilling -- para gerar reports de dados de forma simples e versátil;
-  -  Scikit Learn -- uma das principais bibliotecas de ML em Pyhon;
-  -  Scikit-Optimizer - biblioteca para hiperparametrização com abordagem bayesiana;
-  -  MLxtend -- para o método Stack and Embedded ML.
+  -  [Pandas](https://pandas.pydata.org/) versão 1.1.5 -- para análise de dados;
+  -  [NumPy](https://numpy.org/) versão 1.19.5 -- biblioteca para álgebra linear;
+  -  [Pyforest](https://pypi.org/project/pyforest/) versão 1.1.0 -- automaticamente importa mais de 40 bibliotecas famosas de Data Science em Python;
+  -  [LazyPredict](https://lazypredict.readthedocs.io/en/latest/) versão 0.2.9 -- para treinar automaticamente mais de 30 modelos de forma rápida;
+  -  [Scikit Learn](https://scikit-learn.org/stable/index.html) versão 0.22.2.post1 -- uma das principais bibliotecas de ML em Pyhon;
+  -  [Scikit-Optimizer](https://scikit-optimize.github.io/stable/index.html) versão 0.8.1 - biblioteca para hiperparametrização com abordagem bayesiana;
+  -  [MLxtend](https://rasbt.github.io/mlxtend/) versão 0.19.0 -- para o método Stack and Embedded ML.
  
 ### Seções e métodos
   - Seção 1: Ferramentas em mãos, a primeira seção foi a de importação de todas as bibliotecas, leitura e armazenamento do dataset e definição das funções utilizadas;
