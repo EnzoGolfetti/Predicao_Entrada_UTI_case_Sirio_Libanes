@@ -51,12 +51,19 @@ Agradeço a todos os instrutores do Bootcamp da Alura que sempre estiveram dispo
 
 Acesse o notebook completo: [predicao_entrada_uti_sirio_libanes_v1.ipynb](https://github.com/EnzoGolfetti/Predicao_Entrada_UTI_case_Sirio_Libanes/blob/main/predicao_entrada_uti_sirio_libanes_v1.ipynb)
 
+Principais referências:
 https://piaui.folha.uol.com.br/desde-o-comeco-do-ano-proporcao-de-idosos-nas-utis-de-covid-caiu-pela-metade-no-brasil/
+
 https://deepchecks.com/glossary/recall-in-machine-learning/
+
 https://scikit-optimize.github.io/stable/auto_examples/bayesian-optimization.html#sphx-glr-auto-examples-bayesian-optimization-py
+
 https://developer.ibm.com/articles/stack-machine-learning-models-get-better-results/
+
 https://towardsdatascience.com/how-to-run-40-regression-models-with-a-few-lines-of-code-5a24186de7d
+
 https://towardsdatascience.com/intuition-behind-roc-auc-score-1456439d1f30
+
 https://www.kaggle.com/S%C3%ADrio-Libanes/covid19
 
 Enzo Golfetti - 23/08/2021
